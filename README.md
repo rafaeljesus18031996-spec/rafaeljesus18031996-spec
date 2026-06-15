@@ -2,6 +2,7 @@
 <br>
 🚀 Estudante de Desenvolvimento Web em transição de carreira para a área de tecnologia.
 <br>
+<br>
 Atualmente trabalho como Operador de Máquinas Industriais e estou construindo minha jornada como desenvolvedor. Comecei do zero e venho me dedicando diariamente aos estudos para transformar minha paixão por tecnologia em uma carreira de sucesso.
 <br>
 <br>
