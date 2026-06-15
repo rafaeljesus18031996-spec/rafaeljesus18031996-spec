@@ -1,5 +1,6 @@
 👋 Olá, eu sou Rafael Fernandes!
 <br>
+<br>
 🚀 Estudante de Desenvolvimento Web em transição de carreira para a área de tecnologia.
 <br>
 <br>
