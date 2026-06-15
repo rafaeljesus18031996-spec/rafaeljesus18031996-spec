@@ -41,7 +41,7 @@ Colaborar com outros estudantes e desenvolvedores.
 📫 Contato
 <br>
 <br>
-<a href="www.linkedin.com/in/rafael-fernandes-4281b536b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo-LinkedIn"/><a/>
+<a href="https://www.linkedin.com/in/rafael-fernandes-de-jesus-1784742b6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo-LinkedIn"/><a/>
 <br>
 <a href="https://www.instagram.com/rafaelfernandes519/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Logo-Instagram"/><a/>
 <br>
